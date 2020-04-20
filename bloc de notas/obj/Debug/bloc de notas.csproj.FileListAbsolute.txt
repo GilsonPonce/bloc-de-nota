@@ -1,0 +1,26 @@
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\bloc de notas\bloc de notas\bin\Debug\bloc de notas.exe
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\bloc de notas\bloc de notas\bin\Debug\bloc de notas.pdb
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\bloc de notas\bloc de notas\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\bloc de notas\bloc de notas\obj\Debug\bloc_de_notas.Form1.resources
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\bloc de notas\bloc de notas\obj\Debug\bloc_de_notas.Properties.Resources.resources
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\bloc de notas\bloc de notas\obj\Debug\bloc de notas.csproj.GenerateResource.Cache
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\bloc de notas\bloc de notas\obj\Debug\bloc de notas.exe
+D:\Users\ESTUDIANTE\Documents\Visual Studio 2008\Projects\bloc de notas\bloc de notas\obj\Debug\bloc de notas.pdb
+I:\DFSI\bloc de notas\bloc de notas\obj\Debug\bloc de notas.exe
+I:\DFSI\bloc de notas\bloc de notas\obj\Debug\bloc de notas.pdb
+F:\Nueva carpeta\DFSI\bloc de notas\bloc de notas\obj\Debug\bloc de notas.exe
+F:\Nueva carpeta\DFSI\bloc de notas\bloc de notas\obj\Debug\bloc de notas.pdb
+F:\Nueva carpeta\DFSI\bloc de notas\bloc de notas\bin\Debug\bloc de notas.exe
+F:\Nueva carpeta\DFSI\bloc de notas\bloc de notas\bin\Debug\bloc de notas.pdb
+F:\Nueva carpeta\DFSI\bloc de notas\bloc de notas\obj\Debug\ResolveAssemblyReference.cache
+F:\Nueva carpeta\DFSI\bloc de notas\bloc de notas\obj\Debug\bloc_de_notas.Form1.resources
+F:\Nueva carpeta\DFSI\bloc de notas\bloc de notas\obj\Debug\bloc_de_notas.Properties.Resources.resources
+F:\Nueva carpeta\DFSI\bloc de notas\bloc de notas\obj\Debug\bloc de notas.csproj.GenerateResource.Cache
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Debug\bloc de notas.exe
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Debug\bloc de notas.pdb
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\bin\Debug\bloc de notas.exe
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\bin\Debug\bloc de notas.pdb
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Debug\bloc_de_notas.Form1.resources
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Debug\bloc_de_notas.Properties.Resources.resources
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Debug\bloc de notas.csproj.GenerateResource.Cache

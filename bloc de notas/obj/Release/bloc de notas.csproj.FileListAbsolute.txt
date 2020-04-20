@@ -1,0 +1,24 @@
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\bin\Release\bloc de notas.exe
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\bin\Release\bloc de notas.pdb
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Release\bloc_de_notas.Form1.resources
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Release\bloc_de_notas.Properties.Resources.resources
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Release\bloc de notas.csproj.GenerateResource.Cache
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Release\bloc de notas.exe
+C:\Users\Gilson\Desktop\bloc de notas\bloc de notas\obj\Release\bloc de notas.pdb
+I:\bloc de notas\bloc de notas\obj\Release\bloc de notas.exe
+I:\bloc de notas\bloc de notas\obj\Release\bloc de notas.pdb
+F:\bloc de notas\bloc de notas\obj\Release\bloc de notas.exe
+F:\bloc de notas\bloc de notas\obj\Release\bloc de notas.pdb
+I:\Nueva carpeta\bloc de notas\bloc de notas\obj\Release\bloc de notas.exe
+I:\Nueva carpeta\bloc de notas\bloc de notas\obj\Release\bloc de notas.pdb
+H:\directorios\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\obj\Release\bloc de notas.exe
+H:\directorios\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\obj\Release\bloc de notas.pdb
+D:\Gilson\Documents\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\bin\Release\bloc de notas.exe
+D:\Gilson\Documents\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\bin\Release\bloc de notas.pdb
+D:\Gilson\Documents\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\obj\Release\bloc de notas.csprojAssemblyReference.cache
+D:\Gilson\Documents\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\obj\Release\bloc_de_notas.Form1.resources
+D:\Gilson\Documents\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\obj\Release\bloc_de_notas.Properties.Resources.resources
+D:\Gilson\Documents\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\obj\Release\bloc de notas.csproj.GenerateResource.cache
+D:\Gilson\Documents\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\obj\Release\bloc de notas.exe
+D:\Gilson\Documents\DFSI DOCUMENTS\DFSI\PRIMER QUIMESTRE\bloc de notas\bloc de notas\obj\Release\bloc de notas.pdb
